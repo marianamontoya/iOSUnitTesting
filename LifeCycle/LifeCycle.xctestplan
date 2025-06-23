@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "1F2545D6-733B-469C-91D0-745C27D61303",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:LifeCycle.xcodeproj",
+        "identifier" : "53CCBB252DF3681E006BDFE5",
+        "name" : "LifeCycleTests"
+      }
+    }
+  ],
+  "version" : 1
+}
