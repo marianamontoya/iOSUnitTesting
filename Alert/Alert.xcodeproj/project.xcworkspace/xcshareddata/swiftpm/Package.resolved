@@ -1,0 +1,24 @@
+{
+  "originHash" : "44467a5055f46bf33b333cc2aef491613d1b675672f8ce4bdb8bc7ff4ea48964",
+  "pins" : [
+    {
+      "identity" : "failkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonreid/FailKit.git",
+      "state" : {
+        "revision" : "4adadc24add9b67b397eef708f7aa69764865f9f",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "viewcontrollerpresentationspy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonreid/ViewControllerPresentationSpy",
+      "state" : {
+        "revision" : "04327f4c1c84f4ddbd80a0b87995e741dfd76e1f",
+        "version" : "7.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
